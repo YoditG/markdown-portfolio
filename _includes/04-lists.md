@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Things I like
+- playing basketball
+- writing poems
+- reading
+- drawing
+- coding
